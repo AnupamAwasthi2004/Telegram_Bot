@@ -36,6 +36,5 @@ bot.on("text", (ctx) => {
     );
   }
 });
-C:\Users\HP\Documents\GitHub\Realtime-Chat-Box
 
 bot.launch();
